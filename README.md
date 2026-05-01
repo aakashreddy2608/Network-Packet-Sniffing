@@ -76,7 +76,6 @@ The EXE will be output to `dist/main/main.exe`.
 ---
 
 ## Tech Stack
-
 - Python 3
 - Scapy
 - Tkinter / ttk
@@ -87,4 +86,4 @@ The EXE will be output to `dist/main/main.exe`.
 
 ## Developer
 
-**Sreeja**
+**Aakah Reddy**
